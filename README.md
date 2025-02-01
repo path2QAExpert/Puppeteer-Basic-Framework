@@ -46,6 +46,6 @@ Screenshot will be captured in snapshots folder under tests folder
 
 HTML report will be generated in Reports folder
 
-**Reference Document ** : https://pptr.dev/guides/getting-started
+**Reference Document** : https://pptr.dev/guides/getting-started
 
 
