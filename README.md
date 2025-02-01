@@ -12,3 +12,12 @@ Features
 **Error Handling:**  Robust error handling to ensure smooth execution even in case of unexpected issues.
 
 **Jest Integration:** Seamless integration with Jest for running tests and generating reports.
+
+**How to set up Puppeteer Framework from scratch?**
+
+This tutorial explains setting up Puppeteer with NodeJS, Javascript, and Jest Framework.
+
+Prerequisites:
+
+**Install NodeJS** - https://nodejs.org/en/download/
+**Install Visual Studio Code (Recommended)** - https://code.visualstudio.com/
