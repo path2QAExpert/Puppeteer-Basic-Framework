@@ -13,6 +13,8 @@ Features
 
 **Jest Integration:** Seamless integration with Jest for running tests and generating reports.
 
+
+
 **How to set up Puppeteer Framework from scratch?**
 
 This tutorial explains setting up Puppeteer with NodeJS, Javascript, and Jest Framework.
@@ -21,3 +23,22 @@ Prerequisites:
 
 **Install NodeJS** - https://nodejs.org/en/download/
 **Install Visual Studio Code (Recommended)** - https://code.visualstudio.com/
+
+Clone the project : 
+
+Run below commands in VS code terminal :
+
+**Cammand 1: npm  init
+Cammand 2: npm i puppeteer
+Cammand 3: npm i jest
+Command 4: npm i jest-puppeteer
+Cammand 5: npm install fs-extra
+Cammand 6: npm install --save-dev jest-puppeteer**
+
+**Final Cammand : npm run test**
+
+Screenshot will be captured in snapshots folder under tests folder
+
+HTML report will be generated in Reports folder
+
+
