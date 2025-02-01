@@ -28,12 +28,12 @@ Clone the project :
 
 Run below commands in VS code terminal :
 
-**Cammand 1: npm  init
+Cammand 1: npm  init
 Cammand 2: npm i puppeteer
 Cammand 3: npm i jest
 Command 4: npm i jest-puppeteer
 Cammand 5: npm install fs-extra
-Cammand 6: npm install --save-dev jest-puppeteer**
+Cammand 6: npm install --save-dev jest-puppeteer
 
 **Final Cammand : npm run test**
 
