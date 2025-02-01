@@ -5,10 +5,10 @@ Features
 
 **Automated Browser Actions:** Easily simulate user interactions such as clicking, typing, and navigation.
 
-**Customizable and Extensible: ** Tailor the framework to fit your specific needs with simple configuration and modular components.
+**Customizable and Extensible:**  Tailor the framework to fit your specific needs with simple configuration and modular components.
 
-**Snapshot Capturing: ** Capture screenshots at various stages of your workflow to visualize and debug processes.
+**Snapshot Capturing:**  Capture screenshots at various stages of your workflow to visualize and debug processes.
 
-**Error Handling: ** Robust error handling to ensure smooth execution even in case of unexpected issues.
+**Error Handling:**  Robust error handling to ensure smooth execution even in case of unexpected issues.
 
 **Jest Integration:** Seamless integration with Jest for running tests and generating reports.
