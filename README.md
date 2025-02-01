@@ -24,7 +24,7 @@ Prerequisites:
 **Install NodeJS** - https://nodejs.org/en/download/
 **Install Visual Studio Code (Recommended)** - https://code.visualstudio.com/
 
-**Clone the project : **
+**Clone the project : ** https://github.com/path2QAExpert/Puppeteer-Basic-Framework.git
 
 Run below commands in VS code terminal :
 
